@@ -1,0 +1,8 @@
+# Flutter/Dart 관련
+.dart_tool/
+.packages
+.pub/
+build/
+.idea/
+.vscode/
+*.iml
